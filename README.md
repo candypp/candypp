@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @candypp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-candypp/candypp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 // 获取CEX和DEX的价格
 const cexPrice = 1000; // 假设CEX价格为1000
 const dexPrice = 950; // 假设DEX价格为950
