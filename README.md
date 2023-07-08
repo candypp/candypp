@@ -13,4 +13,7 @@ if (priceDiff > 50) {
 }
 hoaooooo
 gas 0.1E
+
+
+29000\
 gm
